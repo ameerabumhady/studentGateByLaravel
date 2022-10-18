@@ -1,5 +1,5 @@
 # studentGateByLaravel
-Student gate by Laravel Framework Without DataBase
+Student gate by Laravel Framework 
 
 # Students 
 This section manage the students information as add student, edit student, and display all Students.
